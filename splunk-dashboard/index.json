@@ -10,14 +10,9 @@
         "title": "Step 1",
         "text": "step1.md"
       }
-    ],
-    "assets": {
-      "host01": [
-        {"file": "install_splunk.sh", "target": "/root", "chmod": "+x"}
-      ]
-    }
+    ]
   },
   "backend": {
-    "imageid": "kubernetes-kubeadm-1node"
+    "imageid": "ubuntu"
   }
 }
