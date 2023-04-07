@@ -10,3 +10,9 @@ docker run -p 8000:8000 -e "SPLUNK_PASSWORD=Bestpasswordever" \
              -it splunk/splunk:latest
 ```{{exec}}
 
+Now access Splunk using this link:
+
+[ACCESS SPLUNK HERE]({{TRAFFIC_HOST1_8000}})
+
+It's also possible to Splunk using the top-right navigation in the terminal.
+
