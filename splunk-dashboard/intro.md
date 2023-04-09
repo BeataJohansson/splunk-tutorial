@@ -1,5 +1,7 @@
 __Welcome to the Splunk Dashboard tutorial.__
 
+// TODO: Add ILO, Motivation, Background, Illustration
+
 In this tutorial you will follow these steps:
 
 - Fetch example build logs.
