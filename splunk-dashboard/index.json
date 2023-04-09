@@ -21,7 +21,7 @@
     ],
     "assets": {
       "host01": [
-        {"file": "secure.log", "target": "/home", "chmod": "+r"}
+        {"file": "build_logs.json", "target": "/home", "chmod": "+r"}
       ]
     }
   },
