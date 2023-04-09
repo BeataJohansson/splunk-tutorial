@@ -18,9 +18,17 @@
         "title": "Step 3",
         "text": "step3.md"
       }
-    ]
+    ],
+    "assets": {
+      "host01": [
+        {"file": "secure.log", "target": "/root", "chmod": "+r"}
+      ]
+    }
   },
   "backend": {
     "imageid": "ubuntu"
   }
 }
+
+
+
