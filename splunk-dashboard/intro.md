@@ -1,6 +1,10 @@
 __Welcome to the Splunk Dashboard tutorial.__
 
-// TODO: Add ILO, Motivation, Background, Illustration
+Motivation
+
+Background
+
+Intended Learning Outcomes
 
 In this tutorial you will follow these steps:
 
@@ -11,3 +15,5 @@ In this tutorial you will follow these steps:
 - Build a custom Dashboard in Splunk for the logs.
 
 - Create alerts in Splunk.
+
+Illustration
