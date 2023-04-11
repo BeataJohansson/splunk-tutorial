@@ -7,7 +7,12 @@ Select *Start searching* and begin...
 The search field will probably already have the required data, but in case it does not, you should add the following:
 
 *source="/mnt/build_logs.json" host="f65f7f52192a" index="demo_1" sourcetype=“_json"* 
+
+<br />
+
+NOTE: Here you want to replace the *host* value with the one your wrote down in step 4!
  
+<br /> 
 Each event has already some established fields, but if you would like to add some more its easily done by selecting one from *intresting fields* and by clicking on the "yes" tab.
 
 
