@@ -14,7 +14,10 @@ These are the steps for setting up Splunk alerts:
     NOTE: Here you want to replace the *host* value with the one your wrote down in step 4!
 
 3. Click on *Save As* -> *Alert*
-4. Enter your desired title and let the rest be on default
+4. Enter your desired title and add a *Trigger Actions* like the following:
+   - Add to Triggered Alerts
+   - **Save**
+   - And let the rest be on default
 5. Click **Save**
 
 
