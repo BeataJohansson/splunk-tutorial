@@ -10,3 +10,5 @@ Now we need to select the input data that we want to use for our dashboard.
     - Host field value -> Default
     - Index -> Create new index -> Fill in the required info and leave the rest at default -> **Save**
 7. Click onto **Review** and make sure the settings are correct, thereafter you can submit!
+
+NOTE: Write down your default *Host field value*, you will need it later!
