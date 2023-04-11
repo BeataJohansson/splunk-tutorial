@@ -8,5 +8,5 @@ Now we need to select the input data that we want to use for our dashboard.
     - App context -> Search & reporting
     - Constant value -> Default
     - Host field value -> Default
-    - Index -> Create new index -> Fill in the required info and leave the rest at default -> **Save**
-7. Click onto **Review** and make sure the settings are correct, thereafter you can submit!
+    - Index -> Create new index -> Fill in the required info and leave the rest at default, we set index title to *demo_1* -> **Save**
+7. Click onto **Review** and make sure the settings are correct, thereafter you can **submit**!
