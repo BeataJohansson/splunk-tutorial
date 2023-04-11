@@ -10,6 +10,8 @@ These are the steps for setting up Splunk alerts:
 2. Type this into the search field: 
 
     source="/mnt/build_logs.json" host="4ea0d61b62c4" sourcetype="_json" stage="test" status="FAILURE"
+    
+    NOTE: Here you want to replace the *host* value with the one your wrote down in step 4!
 
 3. Click on *Save As* -> *Alert*
 4. Enter your desired title and let the rest be on default
