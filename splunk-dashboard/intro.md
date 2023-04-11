@@ -8,7 +8,7 @@ In this tutorial, you will get an introduction to the Splunk tool and how to cre
 The Splunk tool can help us with a lot of things. As mentioned earlier Dashboards and log monitoring is a commonly used features in Splunk. It can also be used for security analysis and DevSecOps.
 
 <img src="./img/splunk_logo.jpeg" width="70" height="70">
-
+<br />
 
 **Intended Learning Outcomes** <br />
 In this tutorial you will follow these steps:
